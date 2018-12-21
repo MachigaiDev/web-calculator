@@ -1,0 +1,40 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.button{
+	width: 60px;
+	height: 60px;
+	font-size: 28px;
+	margin: 2px;
+	cursor: pointer;
+	background: #102f50;
+	border: 1;
+	border-color: #acbdd4;
+	color: white;
+}
+.textview{
+	height: 35px;
+	width: 243px;
+	margin: 5px;
+	font-size: 30px;
+	padding: 5px;
+	border: 1;
+	border-color: #acbdd4;
+	color: #102f50;
+}
+.main{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translateX(-50%) translateY(-50%);
+
+}
+body{
+	background-color: #515986;
+}
+h1{
+	text-align: center;
+	color: #cad7fb;
+	padding-top: 50px; 
+}
